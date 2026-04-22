@@ -1,6 +1,10 @@
 {
   "permissions": {
-    "allow": ["mcp__playwright"],
+    "allow": [
+      "mcp__playwright",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ],
     "deny": []
   }
 }
